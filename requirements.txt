@@ -1,0 +1,10 @@
+flask
+pymongo
+sqlalchemy
+pandas
+matplotlib
+asyncpg
+pg8000
+seaborn
+scikit-learn
+statsmodels
